@@ -7,3 +7,4 @@ var poly=ee.FeatureCollection('ft:...');
 
 var L8 = ee.ImageCollection('LANDSAT/LC8_L1T');
 var composite = ee.Algorithms.Landsat.simpleComposite({
+  collection: L8.filterDate(startDate, endDate).filterBounds(Bounds),
