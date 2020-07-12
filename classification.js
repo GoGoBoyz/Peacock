@@ -11,3 +11,4 @@ var composite = ee.Algorithms.Landsat.simpleComposite({
   asFloat: true});
 
 var bands = ['B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B10', 'B11'];
+var image = composite.select(bands).clip(Bounds);
