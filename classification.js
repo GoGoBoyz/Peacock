@@ -18,3 +18,4 @@ var train = image.sampleRegions({
   collection: poly,
   properties: ['CLASS'],
   scale: 30  
+});
