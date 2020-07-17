@@ -16,3 +16,4 @@ var image = composite.select(bands).clip(Bounds);
 
 var train = image.sampleRegions({
   collection: poly,
+  properties: ['CLASS'],
