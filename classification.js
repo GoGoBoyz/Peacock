@@ -19,3 +19,5 @@ var train = image.sampleRegions({
   properties: ['CLASS'],
   scale: 30  
 });
+
+// Train the classifier.
