@@ -21,3 +21,4 @@ var train = image.sampleRegions({
 });
 
 // Train the classifier.
+var trained = ee.Classifier.cart().train(train, 'CLASS', bands);
