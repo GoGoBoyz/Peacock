@@ -24,3 +24,4 @@ var train = image.sampleRegions({
 var trained = ee.Classifier.cart().train(train, 'CLASS', bands);
 // Classify the image.
 var classified = image.classify(trained);
+print(classified)
