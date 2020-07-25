@@ -26,3 +26,4 @@ var trained = ee.Classifier.cart().train(train, 'CLASS', bands);
 var classified = image.classify(trained);
 print(classified)
 // Create a palette to display the classes.
+//var palette =['006400', '32CD32', 'EEE8AA',
