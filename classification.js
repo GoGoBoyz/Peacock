@@ -27,3 +27,4 @@ var classified = image.classify(trained);
 print(classified)
 // Create a palette to display the classes.
 //var palette =['006400', '32CD32', 'EEE8AA',
+//              '8B4513', '98FB98', '00FA9A',
