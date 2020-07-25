@@ -29,3 +29,4 @@ print(classified)
 //var palette =['006400', '32CD32', 'EEE8AA',
 //              '8B4513', '98FB98', '00FA9A',
 //              '90EE90', '00008B', 'FF8C00',
+//              'ADFF2F', '808080'];
