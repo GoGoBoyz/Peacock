@@ -30,3 +30,5 @@ print(classified)
 //              '8B4513', '98FB98', '00FA9A',
 //              '90EE90', '00008B', 'FF8C00',
 //              'ADFF2F', '808080'];
+
+// Display the classification result and the input image.
