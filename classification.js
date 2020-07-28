@@ -34,3 +34,4 @@ print(classified)
 // Display the classification result and the input image.
 
 Map.addLayer(image, {bands: ['B4', 'B3', 'B2'], max: 0.5, gamma: 2});
+Map.addLayer(classified, {min: 0, max: 20}, 'Vegetation Type');
