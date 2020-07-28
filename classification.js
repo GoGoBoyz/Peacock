@@ -32,3 +32,5 @@ print(classified)
 //              'ADFF2F', '808080'];
 
 // Display the classification result and the input image.
+
+Map.addLayer(image, {bands: ['B4', 'B3', 'B2'], max: 0.5, gamma: 2});
