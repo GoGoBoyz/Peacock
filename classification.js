@@ -38,3 +38,4 @@ Map.addLayer(classified, {min: 0, max: 20}, 'Vegetation Type');
   var tac = trained.confusionMatrix();
 print('Resubstitution error matrix: ', tac);
 print('Training overall accuracy: ', tac.accuracy());
+print('Training kappa: ', tac.kappa());
