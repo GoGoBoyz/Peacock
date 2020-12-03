@@ -6,4 +6,4 @@ NumInputs=5
 NumOutputs=1
 NumRules=6
 AndMethod='min'
-O
+Or
