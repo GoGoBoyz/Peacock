@@ -7,3 +7,4 @@ NumOutputs=1
 NumRules=6
 AndMethod='min'
 OrMethod='max'
+I
