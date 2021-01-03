@@ -8,4 +8,4 @@ NumRules=6
 AndMethod='min'
 OrMethod='max'
 ImpMethod='min'
-Ag
+Agg
