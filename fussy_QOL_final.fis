@@ -10,3 +10,4 @@ OrMethod='max'
 ImpMethod='min'
 AggMethod='max'
 DefuzzMethod='centroid'
+
