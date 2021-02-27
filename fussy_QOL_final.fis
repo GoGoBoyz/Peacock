@@ -12,3 +12,4 @@ AggMethod='max'
 DefuzzMethod='centroid'
 
 [Input1]
+N
