@@ -12,4 +12,4 @@ AggMethod='max'
 DefuzzMethod='centroid'
 
 [Input1]
-Name='P
+Name='Po
