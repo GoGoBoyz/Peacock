@@ -13,4 +13,4 @@ DefuzzMethod='centroid'
 
 [Input1]
 Name='Population'
-Rang
+Range
