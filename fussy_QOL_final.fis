@@ -15,4 +15,4 @@ DefuzzMethod='centroid'
 Name='Population'
 Range=[800 5400]
 NumMFs=3
-MF1='Low_Popu
+MF1='Low_Popul
