@@ -16,4 +16,4 @@ Name='Population'
 Range=[800 5400]
 NumMFs=3
 MF1='Low_Population':'gaussmf',[500 800]
-MF2='Mid_Popu
+MF2='Mid_Popul
