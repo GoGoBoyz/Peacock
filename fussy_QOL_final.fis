@@ -17,4 +17,4 @@ Range=[800 5400]
 NumMFs=3
 MF1='Low_Population':'gaussmf',[500 800]
 MF2='Mid_Population':'gaussmf',[500 2000]
-MF3='Hi_population':'gaussmf
+MF3='Hi_population':'gaussmf'
