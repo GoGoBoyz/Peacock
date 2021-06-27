@@ -23,4 +23,4 @@ MF3='Hi_population':'gaussmf',[781.4 5339]
 Name='Road_Length'
 Range=[0 1]
 NumMFs=2
-MF1
+MF1=
