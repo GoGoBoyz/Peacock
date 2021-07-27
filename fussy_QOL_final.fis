@@ -27,4 +27,4 @@ MF1='BadRoads':'gaussmf',[0.299 6.939e-18]
 MF2='GoodRoads':'gaussmf',[0.399 1]
 
 [Input3]
-Name
+Name=
