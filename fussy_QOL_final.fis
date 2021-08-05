@@ -28,4 +28,4 @@ MF2='GoodRoads':'gaussmf',[0.399 1]
 
 [Input3]
 Name='Forestness'
-Range=[
+Range=[0
