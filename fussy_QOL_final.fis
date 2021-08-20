@@ -30,4 +30,4 @@ MF2='GoodRoads':'gaussmf',[0.399 1]
 Name='Forestness'
 Range=[0.1 0.7]
 NumMFs=3
-MF1='Low_Forest':'gau
+MF1='Low_Forest':'gaus
