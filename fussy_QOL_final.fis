@@ -31,4 +31,4 @@ Name='Forestness'
 Range=[0.1 0.7]
 NumMFs=3
 MF1='Low_Forest':'gaussmf',[0.05 0.1]
-MF2='Mid_Forest':'
+MF2='Mid_Forest':'ga
