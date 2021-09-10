@@ -32,4 +32,4 @@ Range=[0.1 0.7]
 NumMFs=3
 MF1='Low_Forest':'gaussmf',[0.05 0.1]
 MF2='Mid_Forest':'gaussmf',[0.05 0.2]
-MF3='High
+MF3='High_
