@@ -38,4 +38,4 @@ MF3='High_Forest':'gaussmf',[0.1019 0.7]
 Name='AgriDevelopment'
 Range=[0.1 0.9]
 NumMFs=3
-MF1='LowAgri':'ga
+MF1='LowAgri':'gau
