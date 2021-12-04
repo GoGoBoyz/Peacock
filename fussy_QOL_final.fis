@@ -40,4 +40,4 @@ Range=[0.1 0.9]
 NumMFs=3
 MF1='LowAgri':'gaussmf',[0.1359 0.1]
 MF2='MIdAgri':'gaussmf',[0.1359 0.5]
-MF3='HiAgri':'gaussmf',
+MF3='HiAgri':'gaussmf',[
