@@ -45,4 +45,4 @@ MF3='HiAgri':'gaussmf',[0.1359 0.9]
 [Input5]
 Name='AtmospherePollution'
 Range=[2 57]
-N
+Nu
