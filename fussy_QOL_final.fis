@@ -48,4 +48,4 @@ Range=[2 57]
 NumMFs=3
 MF1='Low':'gaussmf',[6.471 2.042]
 MF2='Mid':'gaussmf',[6.471 10]
-MF3='
+MF3='H
