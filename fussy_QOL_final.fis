@@ -53,4 +53,4 @@ MF3='Hi':'gaussmf',[25 57]
 [Output1]
 Name='QOL'
 Range=[0 1]
-NumMFs=
+NumMFs=3
