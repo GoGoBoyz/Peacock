@@ -55,4 +55,4 @@ Name='QOL'
 Range=[0 1]
 NumMFs=3
 MF1='Low':'gaussmf',[0.1699 6.939e-18]
-MF2='Mid':'gaussmf
+MF2='Mid':'gaussmf'
